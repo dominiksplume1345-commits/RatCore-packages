@@ -1,2 +1,3 @@
 lib/x86_64-linux-gnu/libncursesw.so.6
+usr/share/terminfo/l/linux
 usr/bin/nano
